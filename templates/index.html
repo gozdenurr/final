@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Status Checker</title>
+</head>
+<body>
+    <h1>Website Status Checker</h1>
+    <a href="/add_resource">Yeni Kaynak Ekle</a>
+    <a href="/check_status">Durum Kontrolü</a>
+    <h2>Kaydedilen Web Kaynakları</h2>
+    <ul>
+        {% for resource in resources %}
+        <li>
+            {{ resource.kaynakAdi }} - {{ resource.KaynakURL }} - {{ resource.kaynakDetay }} - {{ resource.kaynakZamanDamgasi }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
