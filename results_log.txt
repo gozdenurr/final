@@ -29,3 +29,11 @@
 2025-01-07 18:10:16.758825: https://chatgpt.com/ - Durum Kodu: 403
 2025-01-07 18:10:16.853250: https://medium.com/ - Erişilebilir
 2025-01-07 18:10:16.967211: https://medium.com/ - Erişilebilir
+2025-01-07 18:40:08.288924: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:40:08.334410: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:40:08.371588: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:40:08.419883: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:40:08.474035: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:40:08.551935: https://medium.com/ - Erişilebilir
+2025-01-07 18:40:08.606137: https://medium.com/ - Erişilebilir
+2025-01-07 18:40:08.673870: https://medium.com/ - Erişilebilir
