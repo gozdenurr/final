@@ -4,3 +4,28 @@
 2025-01-07 15:01:31.776686: https://medium.com/ - Erişilebilir
 2025-01-07 15:01:31.922552: https://www.google.com.tr - Erişilebilir
 2025-01-07 15:01:31.995901: https://medium.com/ - Erişilebilir
+2025-01-07 17:57:45.833943: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 17:57:59.328454: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 17:59:09.140454: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:03:29.622558: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:04:07.410256: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:04:07.449078: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:04:07.493615: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:04:07.543993: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:07:29.213815: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:29.260004: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:29.311708: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:29.359389: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:29.409997: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:53.550733: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:53.588212: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:53.639746: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:53.678305: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:07:53.712728: https://chatgpt.com/ - Erişilemez (İstemci Hatası)
+2025-01-07 18:10:16.579408: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:10:16.627703: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:10:16.670309: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:10:16.723728: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:10:16.758825: https://chatgpt.com/ - Durum Kodu: 403
+2025-01-07 18:10:16.853250: https://medium.com/ - Erişilebilir
+2025-01-07 18:10:16.967211: https://medium.com/ - Erişilebilir

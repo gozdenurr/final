@@ -8,16 +8,28 @@ app = Flask(__name__)
 
 # Websites' status check function
 def check_website_status(url):
+    
+   
     try:
+        # Belirtilen URL'ye istek gönder ve yanıt al
         response = requests.get(url, timeout=5)
+        
+        # Durum kodu 200 ise "Erişilebilir" mesajını döndür
         if response.status_code == 200:
             return "Erişilebilir"
+        # Durum kodu 200 değilse durumu belirt
         else:
             return f"Durum Kodu: {response.status_code}"
+    
+    # Zaman aşımı hatasını yakala ve mesaj döndür
     except requests.exceptions.Timeout:
         return "Zaman Aşımı (Timeout)"
+    
+    # Bağlantı hatasını yakala ve mesaj döndür
     except requests.exceptions.ConnectionError:
         return "Bağlantı Hatası (Connection Error)"
+    
+    # Genel bir istek hatası durumunda hata mesajını döndür
     except requests.exceptions.RequestException as e:
         return f"Hata: {str(e)}"
 
